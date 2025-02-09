@@ -1,0 +1,63 @@
+.paybybg
+{
+    background-image:url("D:\reactapp\public\bg.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:100px;
+    padding:1px;
+    height:800px;
+
+}
+.bys1
+{
+  background-image:url("D:\reactapp\public\r1.png");
+  background-color:lightgrey;
+  background-repeat: no-repeat;
+  background-position: 150px;
+  height:600px;
+  width:500px;
+  margin-top:50px;
+  margin-left:500px;
+}
+.bys2
+{
+  background-color:grey;
+  height:70px;
+  width:500px;
+  text-align: center;
+  font-size:xx-large
+}
+
+
+.syo
+{
+  margin-top:60px;
+  background-color:whitesmoke;
+  opacity:50%;
+
+}
+.fc1
+{
+  margin-left:30px;
+  font-weight:bolder;
+}
+.fc2
+{
+  margin-left:30px;
+  font-weight:bolder;
+}
+.fc3
+{
+  margin-left:40px;
+  font-weight:bolder;
+  height:300px;
+  text-align: justify;
+}
+
+.yas
+{
+  font-size:20px;
+    font-weight:bold;
+    text-align:center;
+    margin-top:250px;
+}

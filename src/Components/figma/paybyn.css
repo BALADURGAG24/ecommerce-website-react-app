@@ -1,0 +1,80 @@
+.paybybg
+{
+    background-color:white;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:100px;
+    padding:1px;
+
+}
+.bxs1
+{
+  background-image:url("D:\reactapp\public\ob1.png");
+  background-color:lightgrey;
+  background-repeat: no-repeat;
+  background-position: 150px;
+  height:600px;
+  width:500px;
+  margin-top:50px;
+  margin-left:500px;
+}
+.bxs2
+{
+  background-color:grey;
+  height:70px;
+  width:500px;
+  text-align: center;
+  font-size:xx-large
+}
+
+
+.so
+{
+  margin-top:100px;
+  background-color:whitesmoke;
+  opacity:50%;
+}
+.oc1sb
+{
+  margin-left:30px;
+  font-weight:bolder;
+  margin-top:30px;
+
+}
+.oc2
+{
+  margin-left:30px;
+  font-weight:bolder;
+}
+.oc3
+{
+  margin-left:30px;
+  font-weight:bolder;
+}
+.oc4
+{
+  margin-left:30px;
+  font-weight:bolder;
+}
+.bt1
+{
+  margin-left: 240px;
+  margin-top:50px;
+  
+}
+.sbi
+{
+    height:80px;
+    margin-left:200px;
+    margin-top:-55px;
+
+    
+}
+.icic1
+{
+    height:80px;
+    margin-left:100px;
+    margin-top:-55px;
+
+    
+}

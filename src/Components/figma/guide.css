@@ -1,0 +1,32 @@
+.guidebg 
+{
+    background-image:url("D:\reactapp\public\bg.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:100px;
+    padding:1px;
+    height:800px;
+}
+.conn1
+{
+    height:700px;
+    width:800px;
+    background-color:#ddd;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top:40px;
+    margin-left:400px;
+
+}
+.bb1
+{
+    color:black;
+    font-size:20px;
+    font-weight: bold;
+    text-align: center;
+
+}
+.bok
+{
+    margin-top:100px;
+}

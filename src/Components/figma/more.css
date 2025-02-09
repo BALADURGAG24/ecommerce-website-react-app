@@ -1,0 +1,34 @@
+.mbg
+{
+    background-image:url("D:\reactapp\public\bg.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:100px;
+    padding:1px;
+    height:800px;
+}
+.ct2
+{
+    height:700px;
+    width:800px;
+    background-color:white;
+    opacity:80%;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top:50px;
+    margin-left:350px;
+}
+.mi
+{
+    text-align: center;
+    font-size:30px;
+    font-weight: bold;
+
+}
+.bkk
+{
+    font-size:20px;
+    font-weight:bold;
+    text-align:center;
+    margin-top:250px;
+}

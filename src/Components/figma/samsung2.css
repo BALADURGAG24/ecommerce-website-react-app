@@ -1,0 +1,161 @@
+.bg11
+{
+    background-color:white;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:100px;
+    height:1300px;
+
+}
+   .logo11
+   {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 650px;
+    top: 25px;
+   }
+   .product11
+   {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 550px;
+    top: 160px;
+   }
+   .pricetag11
+   {
+    margin-left: 600px;
+    margin-top: 280px;
+    font-family:'Times New Roman', Times, serif;
+    color:green;
+    font-size:30px;
+    font-weight:bolder;
+    text-align:center;
+   }
+   .info11
+   {
+    font-family: Arial;
+    text-align: left;
+    color:black;
+    font-size:17px;
+    font-weight: bold;
+    margin-top: -400px;
+  
+   }
+   .name11
+   {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:xx-large;
+    color:purple;
+    margin-left:50px;
+    margin-top:-550px;
+   }
+   .click11
+   {margin-left:700px;
+    margin-top:10px;
+    color:black;
+    font-size: x-large;
+    font-weight:bold;
+    
+   }
+    .video11
+    {
+        margin-top:520px;
+
+        width:50%;
+        margin-left:350px;
+    }
+    .bk8
+   {
+        background-color:lightgrey;
+        background-attachment:fixed;
+        background-size:cover; 
+        opacity:100px;
+   }
+   .bks
+   {
+    margin-top: 10px;
+       background-color:white;
+       background-size: cover;
+       background-attachment: fixed;
+       opacity:100px;
+       height:1300px;
+   
+   }
+      .logo110
+      {
+       position: absolute;
+       width: 150px;
+       height: 150px;
+       left: 650px;
+       margin-top:10px;
+      }
+      .product110
+      {
+       position: absolute;
+       width: 300px;
+       height: 300px;
+       left: 550px;
+       top: 1460px;
+       margin-top: 30px;
+      }
+      .pricetag110
+      {
+       margin-left: 600px;
+       margin-top: 280px;
+       font-family:'Times New Roman', Times, serif;
+       color:green;
+       font-size:30px;
+       font-weight:bolder;
+       text-align:center;
+      }
+      .info110
+      {
+       font-family: Arial;
+       text-align: left;
+       color:black;
+       font-size:17px;
+       font-weight: bold;
+       margin-top: -400px;
+     
+      }
+      .name110
+      {
+       font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       font-size:xx-large;
+       color:purple;
+       margin-left:50px;
+       margin-top:-550px;
+      }
+      .click110
+      {margin-left:700px;
+       margin-top:10px;
+       color:black;
+       font-size: x-large;
+       font-weight:bold;
+       
+      }
+       .video110
+       {
+           margin-top:520px;
+   
+           width:50%;
+           margin-left:350px;
+       }
+       .bk9
+      {
+           background-color:lightgrey;
+           background-attachment:fixed;
+           background-size:cover; 
+           opacity:100px;
+           
+      }
+     .bxxs
+     {
+        background-color:black;
+        background-size: cover;
+        background-attachment: fixed;
+        opacity:100px;
+    
+     }

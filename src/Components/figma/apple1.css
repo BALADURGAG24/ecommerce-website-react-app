@@ -1,0 +1,327 @@
+.bg3{
+    background-color:black;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:100px;
+    
+    }
+   .logo3
+   {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 634px;
+    top: 1px;
+   }
+   .product3
+   {
+    position: absolute;
+    width: 500px;
+    height: 350px;
+    left: 450px;
+    top: 160px;
+   }
+   .pricetag3
+   {
+    margin-left: 1000px;
+    margin-top: 280px;
+    font-family:'imes New Roman', Times, serif;
+    color:green;
+    font-size:30px;
+    font-weight:bolder;
+    
+   }
+   .info3
+   {
+    font-family: Arial;
+    text-align:left;
+    color:black;
+    font-size:17px;
+    font-weight: bold;
+    margin-top: -400px;
+
+  
+   }
+   .name3
+   {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:xx-large;
+    color:purple;
+    margin-left:70px;
+    margin-top:-550px;
+   }
+   .click3
+   {
+    margin-left:700px;
+    margin-top:10px;
+    color:white;
+    font-size: x-large;
+    font-weight:bold;
+   }
+   .video3
+   {
+    margin-top:520px;
+
+    width:50%;
+    margin-left:350px;
+
+   }
+   
+.box1
+{
+    background-color:white;
+    height:1300px;
+    width:1519px;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+    margin-top:10px;
+}
+.product2{
+    position: absolute;
+    width: 500px;
+    height: 350px;
+    left: 450px;
+    margin-top:200px;
+   }
+   .pricetag2
+   {
+    margin-left: 1000px;
+    margin-top:10px;
+    font-family:'imes New Roman', Times, serif;
+    color:green;
+    font-size:30px;
+    font-weight:bolder;
+    
+   }
+   .info2
+   {
+    font-family: Arial;
+    text-align:left;
+    color:black;
+    font-size:17px;
+    font-weight: bold;
+    margin-top:500px;
+
+  
+   }
+   .name2
+   {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:xx-large;
+    color:purple;
+    margin-left:70px;
+    margin-top:-550px;
+   }
+   .click2
+   {
+    margin-left:700px;
+    margin-top:10px;
+    color:black;
+    font-size: x-large;
+    font-weight:bold;
+   }
+   .video2
+   {
+    margin-top:480px;
+
+    width:50%;
+    margin-left:350px;
+
+
+   }
+   .btt1
+   {
+    background-color:lightgrey;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:100px;
+
+   }
+   
+.box2
+{
+    background-color:white;
+    height:1300px;
+    width:1519px;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+    margin-top: 10px;
+}
+.logo2
+{
+ position: absolute;
+ width: 150px;
+ height: 150px;
+ left: 634px;
+ top: 1350px;
+}
+.bt2
+   {
+    background-color:lightgrey;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:100px;
+
+   }
+   .logoi3
+   {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 634px;
+    top: 2650px;
+   }
+   .producti3
+   {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 580px;
+    top: 2800px;
+   }
+   .pricetagi3
+   {
+    margin-left: 1000px;
+    margin-top: -50px;
+    font-family:'imes New Roman', Times, serif;
+    color:green;
+    font-size:30px;
+    font-weight:bolder;
+    
+   }
+   .infoi3
+   {
+    font-family: Arial;
+    text-align:left;
+    color:black;
+    font-size:17px;
+    font-weight: bold;
+    margin-top: 500px;
+
+  
+   }
+   .namei3
+   {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:xx-large;
+    color:purple;
+    margin-left:70px;
+    margin-top:-500px;
+   }
+   .clicki3
+   {
+    margin-left:700px;
+    margin-top:10px;
+    color:white;
+    font-size: x-large;
+    font-weight:bold;
+   }
+   .videoi3
+   {
+    margin-top:490px;
+
+    width:50%;
+    margin-left:380px;
+
+   }
+   
+.box3
+{
+    background-color:white;
+    height:1300px;
+    width:1519px;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+    margin-top:10px;
+}
+.bti3
+   {
+    background-color:lightgrey;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:100px;
+
+   }
+   .bti4
+   {
+    background-color:lightgrey;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:100px;
+
+   }
+   .logoi4
+   {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 634px;
+    top:3950px;
+   }
+   .producti4
+   {
+    position: absolute;
+    width: 500px;
+    height: 350px;
+    left: 470px;
+    top: 4100px;
+   }
+   .pricetagi4
+   {
+    margin-left: 1000px;
+    margin-top: -10px;
+    font-family:'imes New Roman', Times, serif;
+    color:green;
+    font-size:30px;
+    font-weight:bolder;
+    
+   }
+   .infoi4
+   {
+    font-family: Arial;
+    text-align:left;
+    color:black;
+    font-size:17px;
+    font-weight: bold;
+    margin-top: 500px;
+
+  
+   }
+   .namei4
+   {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:xx-large;
+    color:purple;
+    margin-left:70px;
+    margin-top:-550px;
+   }
+   .clicki4
+   {
+    margin-left:700px;
+    margin-top:10px;
+    color:white;
+    font-size: x-large;
+    font-weight:bold;
+   }
+   .videoi4
+   {
+    margin-top:520px;
+
+    width:50%;
+    margin-left:350px;
+
+   }
+   
+.box4
+{
+    background-color:white;
+    height:1300px;
+    width:1519px;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+    margin-top:10px;
+}

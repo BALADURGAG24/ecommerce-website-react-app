@@ -1,0 +1,77 @@
+.lbg
+{
+    background-image: url("D:\reactapp\public\bg.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:100px;
+    height:1000px;
+    padding-top:1px;
+}
+.bx1
+{
+    background-color:#ddd;
+    opacity:80% ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top:50px;
+    margin-left:400px;
+    height:700px;
+    width:800px;
+}
+.logoll
+{
+    height:100px;
+    width:100px;
+    margin-left:350px;
+    margin-top:10px;
+
+}
+
+.a1{
+  text-align: center;
+  height:30px;
+  width:500px;
+  margin-left:150px;
+  background-color:white;
+  opacity:70%;
+  color:black;
+}
+.a2{
+    text-align: center;
+    height:30px;
+    width:500px;
+    margin-left:150px;
+    background-color: white;
+    opacity:70%;
+    color:black;
+  }
+  .ca
+  {
+    color:black;
+    margin-top:150px;
+    font-size:30px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left:200px;
+    text-align:left;
+  }
+  .low{
+    color:black;
+    margin-top:150px;
+    font-size:30px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left:10px;
+    text-align: center;
+  }
+  .fp
+  {
+    color:black;
+    margin-top:-30px;
+    font-size:30px;
+    
+    font-weight: bold;
+    font-family:sans-serif;
+    margin-right:200px;
+    text-align: right;
+  }

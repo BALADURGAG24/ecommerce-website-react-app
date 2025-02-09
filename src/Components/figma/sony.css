@@ -1,0 +1,73 @@
+.bg14{
+    background-color:white;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:100px;
+    
+    }
+   .logo14
+   {
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    left: 650px;
+    top: 0px;
+   }
+   .product14
+   {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 550px;
+    top: 100px;
+   }
+   .pricetag14
+   {
+    margin-left: 600px;
+    margin-top: 280px;
+    font-family:'Times New Roman', Times, serif;
+    color:green;
+    font-size:30px;
+    font-weight:bolder;
+    text-align:center;
+   }
+   .info14
+   {
+    font-family: Arial;
+    text-align: left;
+    color:black;
+    font-size:17px;
+    font-weight: bold;
+    margin-top: -300px;
+   }
+   .name14
+   {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:xx-large;
+    color:purple;
+    margin-left:50px;
+    margin-top:-600px;
+   }
+   .click14
+   {
+    margin-left:700px;
+    margin-top:10px;
+    color:black;
+    font-size: x-large;
+    font-weight:bold;
+   }
+   .video14
+   {
+    margin-top:580px;
+    width:50%;
+    margin-left:350px;
+    
+   }
+   .bks9
+   {
+    background-color:lightgrey;
+    background-attachment:fixed;
+    background-size:cover; 
+    opacity:100px;
+   }
+ 

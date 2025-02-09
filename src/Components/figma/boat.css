@@ -1,0 +1,83 @@
+.bg4{
+    background-color:black;
+    background-size:cover;
+    height:1500px;
+    background-attachment:fixed;
+    opacity:100px;
+    }
+    
+   .logo4
+   {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 690px;
+    top: -20px;
+   }
+   .product4
+   {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 600px;
+    top: 120px;
+   }
+   .pricetag4
+   {
+    margin-left: 600px;
+    margin-top: 280px;
+    font-family:'Times New Roman', Times, serif;
+    color:green;
+    font-size:30px;
+    font-weight:bolder;
+    text-align:center;
+   }
+   .info4
+   {
+    font-family: Arial;
+    text-align: left;
+    color:black;
+    font-size:17px;
+    font-weight: bold;
+    margin-top:-450px;
+  
+   }
+   .name4
+   {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:xx-large;
+    color:purple;
+    margin-left:50px;
+    margin-top:-550px;
+   }
+   .click4
+   {
+    margin-left:700px;
+    margin-top:10px;
+    color:white;
+    font-size: x-large;
+    font-weight:bold;
+   }
+   .video4
+   {
+    margin-top:550px;
+
+    width:50%;
+    margin-left:350px;
+   }
+   .bt3
+   {
+    background-color:lightgrey;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:100px;
+
+   }
+   .bo
+   {
+    background-color:white;
+    background-size:cover;
+    height:1500px;
+    background-attachment:fixed;
+    opacity:100px;
+   }

@@ -1,0 +1,59 @@
+.ccc
+{
+    background-image:url("D:\reactapp\public\bg.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:100px;
+    height:1000px;
+    padding-top:1px;
+}
+.barrr
+{
+    background-color:black;
+    opacity:80%;
+    height:600px;
+    margin-left:350px;;
+    width:700px;
+    margin-top:100px;
+}
+.cas{
+    height:100px;
+    margin-left:300px;
+    margin-top:10px;
+    opacity:80%;
+    
+
+}
+.sbb11
+{
+    margin-top:60px;
+    margin-left:200px;
+    height:30px;
+    width:300px;
+    text-align: center;
+}
+.sbb22
+{
+    margin-top:30px;
+    margin-left:200px;
+    height:30px;
+    width:300px;
+    text-align: center;
+}
+.sbb33
+{
+    margin-top:30px;
+    margin-left:200px;
+    height:90px;
+    width:300px;
+    text-align: center;
+
+}
+.paysb11
+{
+    margin-top:30px;
+    margin-left:200px;
+    height:30px;
+    width:300px;
+    text-align: center;
+}

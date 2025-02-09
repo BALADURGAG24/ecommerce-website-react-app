@@ -1,0 +1,16 @@
+.tbgs
+{
+    background-image:url("D:\reactapp\public\bg.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:100px;
+    padding-top: 1px;
+    height:1000px;
+}
+.tbgs1
+{
+    text-align: center;
+    font-size:xx-large;
+    margin-top:230px;
+    font-weight: bold;
+}

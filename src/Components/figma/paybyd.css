@@ -1,0 +1,143 @@
+.paybg
+{
+    background-image:url("D:\reactapp\public\bg.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:100px;
+    padding:1px;
+    height:1000px
+}
+.container
+{
+
+    background-color:whitesmoke;
+    background-repeat:no-repeat;
+    background-size:500px;
+    opacity:90%;
+    height:649px;
+    width:800px;
+    margin-top:80px;
+    margin-left:400px;
+}
+
+
+.vs
+{
+    height:100px;
+    width:200px;
+    margin-left:600px;
+}
+.mc
+{
+    height:100px;
+    width:200px;
+    margin-left:200px;
+    margin-top:-20%;
+}
+.p
+{
+    font-size: xx-large;
+    color: black;
+    text-align: center;
+    margin-left:250px;
+    margin-top: -10px;
+}
+.p1
+{
+    font-size:larger;
+    margin-left:250px;
+    margin-top:350px;
+    font-family:sans-serif;
+}
+.p2
+{
+    font-size:larger;
+    margin-left:250px;
+    margin-top:-150px;
+    font-family:sans-serif;
+
+}
+.p3
+{
+    font-size:larger;
+    margin-left:250px ;
+    margin-top:-150px;
+    font-family:sans-serif;
+}
+.p4
+{
+    font-size:larger;
+    margin-left:250px;
+    margin-top:-150px;
+    font-family:sans-serif;
+}
+.cont2
+{
+    background-color:purple;
+    background-repeat:no-repeat;
+    background-size:500px;
+    opacity:90%;
+    height:649px;
+    width:200px;
+    margin-top:-272px;
+    margin-left:0px;
+}
+
+.img
+{
+    height:300px;
+    width:200px;
+    margin-top:10px;
+}
+.sub
+{
+    height:300px;
+    width:300px;
+    margin-top:-50px;
+    margin-left:450px;
+}
+.i
+{
+    
+    height:50px;;
+    width: 100%;
+    background-color: black;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    margin-left:200px;
+
+}
+.b1
+{
+    height:25px;
+    width:500px;
+}
+.b2
+{
+    height:25px;
+    width:60px;
+}
+.b3
+{
+    height:25px;
+    width:50px;
+}
+.b4
+{
+    height:25px;
+    width:500px;
+    
+    
+}
+.paydb
+{
+    margin-top:280px;
+    margin-left:290px;
+    height:30px;
+    width:300px;
+    text-align: center;
+    font-size: x-large;
+    font-weight:bold;
+}
+

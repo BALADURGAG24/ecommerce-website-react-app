@@ -1,0 +1,105 @@
+.lbgc1
+{
+    background-image:url("D:\reactapp\public\bg.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:100px;
+    height:1000px;
+    padding-top:1px;
+}
+.bx1c1
+{
+    background-color:#ddd;
+    opacity:85%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top:10px;
+    margin-left:400px;
+    height:800px;
+    width:800px;
+}
+.logollc1
+{
+    height:150px;
+    width:150px;
+    margin-left:340px;
+    margin-top:10px;
+    opacity:50%;
+
+}
+
+.a1c1{
+  text-align: center;
+  height:30px;
+  width:500px;
+  margin-left:150px;
+}
+.a2c1{
+    text-align: center;
+    height:30px;
+    width:500px;
+    margin-left:150px;
+  }
+  .a3c1{
+    text-align: center;
+    height:30px;
+    width:500px;
+    margin-left:150px;
+  }
+  .a4c1{
+    text-align: center;
+    height:30px;
+    width:500px;
+    margin-left:150px;
+  }
+  .a5c1{
+    text-align: center;
+    height:30px;
+    width:500px;
+    margin-left:150px;
+  }
+  .cac1
+  {
+    color:black;
+    margin-top:150px;
+    font-size:30px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left:100px;
+    text-align:left;
+  }
+  .lowc1{
+    color:black;
+    margin-top:100px;
+    font-size:30px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left:10px;
+    text-align: center;
+  }
+  
+  .twoc1
+  {
+    background-color: black;
+
+  }
+  .kk1
+  {
+    text-align: center;
+    height:30px;
+    width:500px;
+    margin-left:10px;
+  }
+  .lab1
+  {
+    font-size: x-large;
+    font-weight: bold;
+    color:black;
+  }
+  .kk2
+  {
+    text-align: center;
+    height:70px;
+    width:500px;
+    margin-left:10px;
+  }

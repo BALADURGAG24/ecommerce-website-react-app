@@ -1,0 +1,94 @@
+.nebg
+{
+    background-image:url("D:\reactapp\public\bg.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:100px;
+    padding-top: 1px;
+    height:1000px;
+}
+.nw1
+{
+    background-color:#ddd;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:500px;
+    width:400px;
+    margin-left:50px;
+    margin-top:150px;
+}
+.nws1
+{
+    height:200px;
+    width:400px;
+    margin-top:50px;
+
+}
+.t1 
+{
+    text-align: center;
+}
+
+.nw2
+{
+    background-color:#ddd;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:500px;
+    width:400px;
+    margin-left:550px;
+    margin-top:-500px;
+
+}
+.nws2
+{
+    height:200px;
+    width:400px;
+    margin-top:50px;
+ 
+
+}
+.nw3
+{
+    background-color:#ddd;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:500px;
+    width:400px;
+    margin-left:1050px;
+    margin-top:-500px;
+}
+.nws3
+{
+
+    height:200px;
+    width:400px;
+    margin-top:50px;
+}
+.nw1  {
+    
+    transition: 0.5s all ease-in-out;
+}
+  
+.nw1:hover{
+    transform: scale(1.1);
+}
+.nw2  {
+    
+    transition: 0.5s all ease-in-out;
+}
+  
+.nw2:hover{
+    transform: scale(1.1);
+}
+.nw3  {
+    
+    transition: 0.5s all ease-in-out;
+}
+  
+.nw3:hover{
+    transform: scale(1.1);
+}

@@ -1,0 +1,269 @@
+/* Navbar container */
+.bg0
+{
+  background-image:url("D:\reactapp\public\bg.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:100px;
+    padding-top: 1px;
+    height:2000px;
+
+
+ }
+.navbar {
+    overflow: hidden;
+    background-color:grey;
+    font-family: Arial;
+    margin-top:10px;
+  }
+  
+  /* Links inside the navbar */
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* The dropdown container */
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  /* Dropdown button */
+  .dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color:white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit; /* Important for vertical align on mobile phones */
+    margin: 0px; /* Important for vertical align on mobile phones */
+  }
+  
+  /* Add ared background color to navbar links on hover */
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color:black;
+  }
+  
+  /* Dropdown content (hidden by default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  /* Add a grey background color to dropdown links on hover */
+  .dropdown-content a:hover {
+    background-color: #ddd;
+  }
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .con1
+  {
+    background-color:#ddd;
+    
+    background-size: cover;
+    background-attachment: fixed;
+    height:600px;
+    width:400px;
+    margin-left:50px;
+    margin-top:100px;
+  }
+  .img1
+  {
+    height:150px;
+    width:150px;
+    margin-top:-10px;
+    margin-left:100px;
+
+  }
+  .con2
+  {
+    background-color:#ddd;
+    
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:600px;
+    width:400px;
+    margin-left:550px;
+    margin-top:-600px;
+  
+  }
+  .img2
+  {
+    height:100px;
+    width:100px;
+    margin-top:10px;
+    margin-left:140px;
+
+  }
+  
+  .con3
+  {
+    background-color:#ddd;
+
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:600px;
+    width:400px;
+    margin-left:1050px;
+    margin-top:-600px;
+
+  }
+  .con1  {
+    
+    transition: 0.5s all ease-in-out;
+}
+  
+.con1:hover{
+    transform: scale(1.1);
+}
+.con2 {
+    
+  transition: 0.5s all ease-in-out;
+}
+
+.con2:hover{
+  transform: scale(1.1);
+}
+.con3 {
+    
+  transition: 0.5s all ease-in-out;
+}
+
+.con3:hover{
+  transform: scale(1.1);
+}
+  .img3
+  {
+    height:100px;
+    width:150px;
+    margin-top:10px;
+    margin-left:130px
+  }
+  .p11
+  {
+    height:250px; ;
+    margin-left:50px;
+    margin-top:15px;
+    
+  }
+  
+  .p21
+  {
+    height:250px; ;
+    margin-left:-50px;
+    margin-top:15px;
+  }
+  .p31
+  {
+    height:250px;
+    margin-left:80px;
+    margin-top:15px;
+    
+  }
+  .ol1
+  {
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color:red;
+    text-align: center;
+    margin-top:30px;
+  }
+  .n1
+  {
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color:green;
+    text-align: center;
+
+  }
+  .ol2
+  {
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color:red;
+    text-align: center;
+    margin-top:60px;
+  }
+  .n2
+  {
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color:green;
+    text-align: center;
+
+  }
+  .ol3
+  {
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color:red;
+    text-align: center;
+    margin-top:60px;
+  }
+  .n3
+  {
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color:green;
+    text-align: center;
+
+  }
+  .about
+  {
+    height:700px;
+    width:1000px;
+    margin-top:100px;
+    margin-left:270px;
+    background-color: black;
+    opacity:80%;
+  }
+  .iiii
+  {
+    
+    font-size: 30px;
+    color:white;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-left: 50px;
+  
+  }
+  .si1
+  {
+    margin-top:-600px;
+    opacity:30%;
+    margin-left:230px
+    
+  }
+ 
