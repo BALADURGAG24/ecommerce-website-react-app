@@ -12,7 +12,7 @@ An elegant and responsive frontend for an online e-commerce platform built using
 - **Axios / Fetch** – API integration (optional placeholder for backend)  
 - **Tailwind CSS / Material UI** – Modern UI styling   
 - **Context API / Redux (optional)** – For state management  
-- **React Icons** – For elegant iconography   
+- **React Icons** – For elegant iconography    
 - **Form Libraries (Formik / React Hook Form)** – For form handling (if used)  
 
 ---
