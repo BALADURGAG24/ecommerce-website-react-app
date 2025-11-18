@@ -8,7 +8,7 @@ An elegant and responsive frontend for an online e-commerce platform built using
 ## 🛠️ Tech Stack
 
 - **React.js** – Core framework for building UI components   
-- **React Router** – Client-side routing for seamless navigation   
+- **React Router** – Client-side routing for seamless navigation    
 - **Axios / Fetch** – API integration (optional placeholder for backend)  
 - **Tailwind CSS / Material UI** – Modern UI styling   
 - **Context API / Redux (optional)** – For state management  
