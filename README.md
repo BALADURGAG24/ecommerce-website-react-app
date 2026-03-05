@@ -31,19 +31,92 @@ An elegant and responsive frontend for an online e-commerce platform built using
 ---
 
 ## 📁 Folder Structure
-
-```plaintext
-ecommerce-react-app/
-├── public/
-│   └── index.html
-├── src/
-│   ├── assets/               # Images and icons
-│   ├── components/           # Reusable UI components (Navbar, Footer, ProductCard, etc.)
-│   ├── pages/                # Pages (Home, Product Details, Cart, Checkout)
-│   ├── context/              # Context API or Redux store
-│   ├── services/             # API service calls (if used)
-│   ├── App.js                # App root component
-│   ├── index.js              # React DOM entry point
-│   └── styles/               # Global and module CSS
-├── package.json
-└── README.md
+```
+Directory structure:
+└── baladurgag24-ecommerce-website-react-app/
+    ├── README.md
+    ├── gitattributes
+    ├── LICENSE.txt
+    ├── package.json
+    ├── public/
+    │   ├── alien2.0.avif
+    │   ├── bs.webp
+    │   ├── db.webp
+    │   ├── index.html
+    │   ├── manifest.json
+    │   ├── red.webp
+    │   ├── robots.txt
+    │   ├── vis.webp
+    │   └── yyy.webp
+    └── src/
+        ├── App.css
+        ├── App.js
+        ├── App.test.js
+        ├── index.css
+        ├── index.js
+        ├── reportWebVitals.js
+        ├── setupTests.js
+        └── Components/
+            ├── 2PropsFunctional.js
+            ├── 3List.js
+            ├── Arrowfunction.js
+            ├── ClassComponent.js
+            ├── functionalcomponent.js
+            └── figma/
+                ├── 1.css
+                ├── 1.js
+                ├── amazon.css
+                ├── amazon.js
+                ├── apple1.css
+                ├── apple2.js
+                ├── boat.css
+                ├── boat.js
+                ├── canon.css
+                ├── canon.js
+                ├── cash.css
+                ├── cash.js
+                ├── create.css
+                ├── create.js
+                ├── dell.css
+                ├── dell.js
+                ├── fp.js
+                ├── fpp.css
+                ├── guide.css
+                ├── guide.js
+                ├── hp.css
+                ├── hp.js
+                ├── icic.css
+                ├── icic.js
+                ├── jbl.css
+                ├── jbl.js
+                ├── login.css
+                ├── login.js
+                ├── marshall.css
+                ├── Marshall.js
+                ├── more.css
+                ├── more.js
+                ├── news.css
+                ├── news.js
+                ├── nikon.css
+                ├── nikon.js
+                ├── payby.css
+                ├── payby.js
+                ├── paybyd.css
+                ├── paybyd.js
+                ├── paybyn.css
+                ├── paybyn.js
+                ├── response.css
+                ├── response.js
+                ├── review.css
+                ├── review.js
+                ├── samsung2.css
+                ├── samsung2.js
+                ├── sbi.css
+                ├── sbi.js
+                ├── skullcandy.css
+                ├── skullcandy.js
+                ├── sony.css
+                ├── sony.js
+                ├── thankyou.css
+                └── thankyou.js
+```
